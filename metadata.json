@@ -1,0 +1,6 @@
+{
+  "name": "VaultPlay Arcade",
+  "description": "A clean, fast unblocked games portal built with HTML, CSS, and JavaScript where every game is loaded from a JSON iframe catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

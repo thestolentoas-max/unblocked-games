@@ -1,0 +1,47 @@
+[
+  {
+    "id": "drive-mad",
+    "title": "Drive Mad",
+    "category": "Arcade",
+    "controls": "WASD / Arrow Keys / Space",
+    "description": "Balance high-suspension trucks across tricky obstacle bridges, steep ramps, and physics-based stunt courses without flipping over.",
+    "thumbnail": "/images/thumb_drive_mad.jpg",
+    "iframe": "<iframe class=\"game-iframe\" id=\"gameFrame\" src=\"https://ubg76.gitlab.io/drive-mad/\" sandbox=\"allow-scripts allow-same-origin allow-pointer-lock allow-forms\" style=\"background:black;\" width=\"100%\" height=\"480\" scrolling=\"no\" frameborder=\"0\"></iframe>"
+  },
+  {
+    "id": "hover-racer-drive",
+    "title": "Hover Racer Drive",
+    "category": "Arcade",
+    "controls": "Arrow Keys / WASD",
+    "description": "Pilot a high-speed futuristic hovercraft through dense urban highway corridors, dodge obstacles, and collect rings to unlock new craft.",
+    "thumbnail": "/images/thumb_hover_racer.jpg",
+    "iframe": "<iframe class=\"game-iframe\" id=\"gameFrame\" src=\"https://ubg76.gitlab.io/hover-racer-drive/\" sandbox=\"allow-scripts allow-same-origin allow-pointer-lock allow-forms\" style=\"background:black;\" width=\"100%\" height=\"480\" scrolling=\"no\" frameborder=\"0\"></iframe>"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "category": "Simulation",
+    "controls": "Mouse / Touch",
+    "description": "Shape an entire lifetime from birth to old age through education, career, relationship, and wealth decisions in an interactive life simulator.",
+    "thumbnail": "/images/thumb_bitlife.jpg",
+    "iframe": "<iframe class=\"game-iframe\" id=\"gameFrame\" src=\"https://ubg76.gitlab.io/bitlife/\" sandbox=\"allow-scripts allow-same-origin allow-pointer-lock allow-forms\" style=\"background:black;\" width=\"100%\" height=\"480\" scrolling=\"no\" frameborder=\"0\"></iframe>"
+  },
+  {
+    "id": "fnaf",
+    "title": "Five Nights at Freddy's",
+    "category": "Survival",
+    "controls": "Mouse / Point & Click",
+    "description": "Monitor security camera feeds, conserve limited building power, and seal blast doors in time to survive the night shift until 6 AM.",
+    "thumbnail": "/images/thumb_fnaf.jpg",
+    "iframe": "<iframe class=\"game-iframe\" id=\"gameFrame\" src=\"https://ubg76.gitlab.io/fnaf/\" sandbox=\"allow-scripts allow-same-origin allow-pointer-lock allow-forms\" style=\"background:black;\" width=\"100%\" height=\"480\" scrolling=\"no\" frameborder=\"0\"></iframe>"
+  },
+  {
+    "id": "level-devil",
+    "title": "Level Devil",
+    "category": "Arcade",
+    "controls": "WASD / Arrow Keys / Space",
+    "description": "Sprint and leap toward the exit door across deceptively simple rooms filled with sudden floor collapses, moving spikes, and trick traps.",
+    "thumbnail": "/images/thumb_level_devil.jpg",
+    "iframe": "<iframe class=\"game-iframe\" id=\"gameFrame\" src=\"https://ubg76.gitlab.io/level-devil/\" sandbox=\"allow-scripts allow-same-origin allow-pointer-lock allow-forms\" style=\"background:black;\" width=\"100%\" height=\"480\" scrolling=\"no\" frameborder=\"0\"></iframe>"
+  }
+]
